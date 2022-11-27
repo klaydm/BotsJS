@@ -1,0 +1,22 @@
+{
+  "name": "botsjs",
+  "version": "1.0.0",
+  "description": "Bots com Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klaydm/chatbot-whatsapp. git.git"
+  },
+  "author": "Klaydm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klaydm/chatbot-whatsapp. git/issues"
+  },
+  "homepage": "https://github.com/klaydm/chatbot-whatsapp. git#readme",
+  "dependencies": {
+    "puppeteer": "^19.3.0"
+  }
+}
